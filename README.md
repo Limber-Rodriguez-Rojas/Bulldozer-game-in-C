@@ -1,8 +1,8 @@
 # Bulldozer game in C
-This is the famous puzzle retro videogame, developed in the 90's about pushing rocks onto targets
+This is the famous puzzle retro videogame, developed in the 90's about pushing rocks onto targets.
 
 <p align="center">
-  <img src="Images/BattleCity.png">
+  <img src="Images/bulldozer.png">
 </p>
 
 I developed a version in C using the SDL graphic library.
@@ -11,7 +11,7 @@ I developed a version in C using the SDL graphic library.
 
 [Youtube Video](https://www.youtube.com/watch?v=QQdxiQNExBM&t=1s "Youtube Video")
 
-This is meant to be an educational project to learn about the use of the SDL graphic library
+This is meant to be an educational project to learn about the use of the SDL graphic library.
 
 >     Make sure you have already installed SDL 1.2 library on your PC to compile it! 
 
@@ -19,7 +19,13 @@ __________________
 
 ## Overview
 
-The game has only implemented the first 3 levels of the game for now.
+The game has ALL 60 levels.
+
+First we have a level selector:
+
+<p align="center">
+  <img src="Images/bulldozer.png">
+</p>
 
 MAP 1 | MAP 2 | MAP 3
 ------------ | ------------- | -------------

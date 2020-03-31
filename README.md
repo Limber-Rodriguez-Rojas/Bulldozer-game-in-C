@@ -41,4 +41,4 @@ And we have a final screen, from level 61... (end of the game)
 
 ### Controls
 
-<img src="Images/keyboard.png">
+<img src="Images/keybooard_img.png">

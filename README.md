@@ -33,7 +33,7 @@ LEVEL 04 | LEVEL 29 | LEVEL 60
 ------------ | ------------- | -------------
 <img src="Images/level04.png" width = "260"> | <img src="Images/level29.png" width = "260"> | <img src="Images/level60.png" width = "260">
 
-And we have a final screen, from level 61...
+And we have a final screen, from level 61... (end of the game)
 
 <p align="center">
   <img src="Images/final.png">

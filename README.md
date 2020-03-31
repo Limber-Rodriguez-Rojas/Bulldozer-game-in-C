@@ -29,10 +29,15 @@ First we have a level selector:
 
 Now let's see a couple of examples about the levels
 
-MAP 04 | MAP 29 | MAP 60
+LEVEL 04 | LEVEL 29 | LEVEL 60
 ------------ | ------------- | -------------
 <img src="Images/level04.png" width = "260"> | <img src="Images/level29.png" width = "260"> | <img src="Images/level60.png" width = "260">
 
+And we have a final screen, from level 61...
+
+<p align="center">
+  <img src="Images/final.png">
+</p>
 
 ### Controls
 

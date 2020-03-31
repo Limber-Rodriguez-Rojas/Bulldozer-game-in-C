@@ -24,12 +24,14 @@ The game has ALL 60 levels.
 First we have a level selector:
 
 <p align="center">
-  <img src="Images/bulldozer.png">
+  <img src="Images/initial.png">
 </p>
 
-MAP 1 | MAP 2 | MAP 3
+Now let's see a couple of examples about the levels
+
+MAP 04 | MAP 29 | MAP 60
 ------------ | ------------- | -------------
-<img src="Images/map1.png" width = "260"> | <img src="Images/ma2.png" width = "260"> | <img src="Images/map3.png" width = "260">
+<img src="Images/level04.png" width = "260"> | <img src="Images/level29.png" width = "260"> | <img src="Images/level60.png" width = "260">
 
 
 ### Controls
